@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.top-section-background {
+    background-color: #fb4e71;
+    padding: 10px;
+
+}
+.top-section-title {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.top-section-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: normal;
+    width: 220px;
+    font-size: 12px;
+}
+.bottom-section-background {
+    background-color: #e6f6ff;
+    padding: 10px;
+}
+.ipl-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.card-bg-color {
+    background-color: #ffffff;
+    height: 130px;
+    width: 320px;
+    margin: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.ipl-card-textcontainer {
+    padding: 8px;
+}
+.ipl-card-title {
+    color: #323f4b;
+    font-size: 18px;
+}
+.ipl-card-description {
+    color: #323f4b;
+    font-size: 14px;
+    width: 200px;
+}
+.video-text-container {
+    width: 96px;
+    margin: 5px;
+}
+.video-head {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+}
+.video-para {
+    font-size: 12px;
+    font-family: "roboto";
+}
